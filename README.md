@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven. I'm a safety engineer.
 - 👀 I’m interested in coding, computer game.
-- 🌱 I’m currently learning NLP.
+- 🌱 I’m currently learning Python and NLP.
 - 📫 How to reach me : caoxiaoyu321@yeah.net
 
 <!---
